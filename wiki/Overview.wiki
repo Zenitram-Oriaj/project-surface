@@ -13,7 +13,7 @@ Hopefully any one following these instructions can build a relatively cheap touc
 
 = Details =
 
-To get started you will need to decide on the type of touch surface you want to build. There are various type of table, but the one I chose uses IR edge lit plexiglass, a back surface projection layer, front-surfaced mirror, projector and IR camera using TUIO.
+To get started you will need to decide on the type of touch surface you want to build. There are various type of table, but the one I chose uses IR edge lit plexiglas, a back surface projection layer, front-surfaced mirror, projector and IR camera using TUIO.
 
 The software is using [http://ccv.nuigroup.com/ CCV] running on a Macbook passing TUIO packets to an [http://www.arduino.cc/ Arduino MegaADK board with ethernet].
 
