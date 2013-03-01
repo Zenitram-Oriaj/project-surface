@@ -1,0 +1,39 @@
+#summary Hardware Pictures.
+
+= Hardware Pictures =
+
+Here are the pictures of the hardware in action.
+
+
+= Table Overview =
+
+This shows the table setup.
+
+[http://project-surface.googlecode.com/svn/wiki/overview.png]
+
+
+= Front Surfaced Miiror / Projector / IR Camera =
+
+This shows the front surfaced mirror, the IR camera and projector configuration.
+
+[http://project-surface.googlecode.com/svn/wiki/mirror.png]
+
+
+= CCV =
+
+This shows the Macbook running CCV 1.4
+
+[http://project-surface.googlecode.com/svn/wiki/macbook.png]
+
+= Table Overview =
+
+This shows the table setup.
+
+[http://project-surface.googlecode.com/svn/wiki/overview.png]
+
+
+= Active =
+
+This shows the table in action. Note the IR illuminators show in the camera, although they are not visible to the human eye.
+
+[http://project-surface.googlecode.com/svn/wiki/active.png]
