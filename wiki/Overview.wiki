@@ -6,6 +6,7 @@ Project Surface is based on the work I did for our Innovation Days at work.
 So thanks to [http://www.citrix.com Citrix] for allowing me to do blue sky research and then open sourcing the details. 
 Hopefully any one following these instructions can build a relatively cheap touch surface and use it with a standard Windows 8 PC with no extra drivers.
 
+[http://project-surface.googlecode.com/wiki/project-surface.png]
 
 = Details =
 
