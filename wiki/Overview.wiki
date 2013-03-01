@@ -20,3 +20,5 @@ The Arduino software in this repository is based on the [http://www.fourwalledcu
 This enables a zero driver install on Windows 8, once the CCV software is calibrated.
 
 The project video shows Windows 8 running on a Macbook Pro in a Parallels VM. The Macbook is also running a native build of CCV doing the Vision processing which passes the TUIO packets through ethernet to the Arduino board which converts them to Windows 8 touch device input via USB.
+
+Some pictures of the hardware are shown on the [Hardware Hardware page].
