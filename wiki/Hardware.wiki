@@ -5,8 +5,8 @@
 The hardware I use for the project is as follows:
  * [http://www.environmentallights.com/led-infrared-lights-and-multi-touch/infrared-led-strips.html IR LED Strip] - for IR edge illumination
  * [http://www.environmentallights.com/led-infrared-lights-and-multi-touch/infrared-cameras.html IR Camera] - modified for IR with IR lenses
- * [http://www.plexiglas-shop.com/GB/en/for-edge-lighting-e05pqpl8s5f/plexiglas-led-endlighten-clear-0n002-xl-5q8tjs41zyt~p.html Plexiglass EndLighten for edge lighting] - the IR edge lit layer
- * [http://www.plexiglas-shop.com/GB/en/for-rear-projection-7qve7vsnwdc/plexiglas-optical-rp-grey-7d006-rp-8guhyczg9ll~p.html Plexiglass Optical rear-projection] - the top layer showing the image
+ * [http://www.plexiglas-shop.com/GB/en/for-edge-lighting-e05pqpl8s5f/plexiglas-led-endlighten-clear-0n002-xl-5q8tjs41zyt~p.html Plexiglas EndLighten for edge lighting] - the IR edge lit layer
+ * [http://www.plexiglas-shop.com/GB/en/for-rear-projection-7qve7vsnwdc/plexiglas-optical-rp-grey-7d006-rp-8guhyczg9ll~p.html Plexiglas Optical Rear-Projection] - the top layer showing the image
  * Arduino MegaADK and Ethernet shield
  * AVRISP mkII for programming and Atmel AVR Dragon for debugging
  * Projector, Macbook Pro and Parallels VM software - running CCV and a Windows 8 VM displayed via the projector
