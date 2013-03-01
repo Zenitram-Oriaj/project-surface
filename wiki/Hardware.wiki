@@ -3,7 +3,7 @@
 = Hardware Details =
 
 The hardware I use for the project is as follows:
- * [http://www.scientificmirrors.co.uk/Autocue%20and%20FS%20Mirrors.html Front Surfaced Mirror] - you need a front surface mirror, or you will get double image on the screen due to reflections from the glass and then the mirror
+ * [http://www.scientificmirrors.co.uk/Autocue%20and%20FS%20Mirrors.html Front Surfaced Mirror] - you need a front surface mirror, or you will get a double image on the screen due to reflections from the glass and then the mirror
  * [http://www.environmentallights.com/led-infrared-lights-and-multi-touch/infrared-led-strips.html IR LED Strip] - for IR edge illumination
  * [http://www.environmentallights.com/led-infrared-lights-and-multi-touch/infrared-cameras.html IR Camera] - modified for IR with IR lenses
  * [http://www.plexiglas-shop.com/GB/en/for-edge-lighting-e05pqpl8s5f/plexiglas-led-endlighten-clear-0n002-xl-5q8tjs41zyt~p.html Plexiglas EndLighten for edge lighting] - the IR edge lit layer
