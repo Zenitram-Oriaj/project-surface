@@ -17,7 +17,7 @@ To get started you will need to decide on the type of touch surface you want to 
 
 The software is using [http://ccv.nuigroup.com/ CCV] running on a Macbook passing TUIO packets to an [http://www.arduino.cc/ Arduino MegaADK board with ethernet].
 
-The Arduino software in this repository is based on the [http://www.fourwalledcubicle.com/LUFA.php LUFA project] and provides a standard USB touch device to Windows 8, which passes the HCK tests.
+The [ArduinoSoftware Arduino software] in this repository is based on the [http://www.fourwalledcubicle.com/LUFA.php LUFA project] and provides a standard USB touch device to Windows 8, which passes the HCK tests.
 This enables a zero driver install on Windows 8, once the CCV software is calibrated.
 
 The project video shows Windows 8 running on a Macbook Pro in a Parallels VM. The Macbook is also running a native build of CCV doing the Vision processing which passes the TUIO packets through ethernet to the Arduino board which converts them to Windows 8 touch device input via USB.
