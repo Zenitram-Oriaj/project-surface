@@ -1,0 +1,18 @@
+#summary The Arduino software in this repository.
+
+= Arduino Software =
+
+The Arduino software in this repository builds two files. 
+ * One for the ATMega2560, which does the TUIO to serial conversion. 
+ * The other for the ATMega8u2 which does the serial to Touch driver USB conversion and shows as a touch panel device which passes the Windows 8 touch HCK tests.
+
+It can be built via the command line or in [http://playground.arduino.cc/code/eclipse Eclipse], as there are two different versions in the trunk.
+
+You can test the ATMega2560 code using the standard serial debugging, but once you reprogram the Mega 8u2, you loose the ability to use the serial port USB debugging, as the USB port is now a touch driver.
+
+This means you need to have an ISP programmer to program the 8U2 and, once it is programmed, to make any updates to the 8U2 and the 2560.
+I started off using an [http://www.atmel.com/tools/AVRISPMKII.aspx AVRISP MkII], but found if you want to do any serious debugging you really need an [http://www.atmel.com/tools/avrdragon.aspx AVR Dragon], so I recommend the Dragon, although it still doesn't work very well when trying to debug interrupt routines.
+
+The ATMega8u2 code is based on the [http://www.fourwalledcubicle.com/LUFA.php LUFA project], so start by reading up about this before making any changes or if you have build issues.
+
+You can also read up about Touch devices on [http://msdn.microsoft.com/en-gb/library/windows/hardware/hh852381.aspx MSDN] if you need more details on the Touch HID information reported in Descriptors.c and ArduinoSurface.c. 
