@@ -15,4 +15,4 @@ I started off using an [http://www.atmel.com/tools/AVRISPMKII.aspx AVRISP MkII],
 
 The ATMega8u2 code is based on the [http://www.fourwalledcubicle.com/LUFA.php LUFA project], so start by reading up about this before making any changes or if you have build issues.
 
-You can also read up about Touch devices on [http://msdn.microsoft.com/en-gb/library/windows/hardware/hh852381.aspx MSDN] if you need more details on the Touch HID information reported in Descriptors.c and ArduinoSurface.c. 
+You can also read up about Touch devices on [http://msdn.microsoft.com/en-gb/library/windows/hardware/hh852381.aspx MSDN] if you need more details on the Touch HID information reported in Descriptors.c and Arduinosurface.c. 
