@@ -2,11 +2,11 @@
 
 = Arduino Software =
 
-The Arduino software in this repository builds two files. 
- * One for the ATMega2560, which does the TUIO to serial conversion. 
- * The other for the ATMega8u2 which does the serial to Touch driver USB conversion and shows as a touch panel device which passes the Windows 8 touch HCK tests.
+The Arduino software in this repository has two sections. 
+ * Arduino Workspace for the ATMega2560, which does the TUIO to serial conversion. 
+ * Arduino Surface for the ATMega8u2 which does the serial to Touch driver USB conversion and shows as a touch panel device which passes the Windows 8 touch HCK tests.
 
-It can be built via the command line or in [http://playground.arduino.cc/code/eclipse Eclipse], as there are two different versions in the trunk.
+It can be built via the command line or in [http://playground.arduino.cc/code/eclipse Eclipse] with the Eclipse project being in Arduino Workspace in the trunk.
 
 You can test the ATMega2560 code using the standard serial debugging, but once you reprogram the Mega 8u2, you loose the ability to use the serial port USB debugging, as the USB port is now a touch driver.
 
